@@ -4,7 +4,7 @@ public abstract class Vehicle implements Cloneable {
 	private String id;
 	protected String type;
 
-	public abstract void draw();
+	public abstract void start();
 
 	public String getId() {
 		return id;

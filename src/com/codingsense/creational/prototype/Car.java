@@ -1,15 +1,14 @@
 package com.codingsense.creational.prototype;
 
-public class Car extends Vehicle implements Cloneable {
+public class Car extends Vehicle {
 
-	@Override
-	public String type() {
-		return "Car";
+	public Car() {
+		type = "Car";
 	}
 
 	@Override
-	protected Object clone() throws CloneNotSupportedException {
-		return super.clone();
+	public void start() {
+		System.out.println("Start method from :: Car");
 	}
 
 }
