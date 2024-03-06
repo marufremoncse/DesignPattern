@@ -1,6 +1,6 @@
 package com.codingsense.creational.builder;
 
-public class ChikenBurger extends Burger{
+public class ChikenBurger extends Burger {
 
 	@Override
 	public String name() {
@@ -11,5 +11,5 @@ public class ChikenBurger extends Burger{
 	public float price() {
 		return 40.0f;
 	}
-	
+
 }

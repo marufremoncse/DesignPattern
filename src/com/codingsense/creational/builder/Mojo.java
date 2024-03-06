@@ -1,6 +1,6 @@
 package com.codingsense.creational.builder;
 
-public class Mojo extends SoftDrink{
+public class Mojo extends SoftDrink {
 
 	@Override
 	public String name() {

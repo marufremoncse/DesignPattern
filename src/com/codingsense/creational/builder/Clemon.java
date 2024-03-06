@@ -1,6 +1,6 @@
 package com.codingsense.creational.builder;
 
-public class Clemon extends SoftDrink{
+public class Clemon extends SoftDrink {
 
 	@Override
 	public String name() {
