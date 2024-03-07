@@ -1,4 +1,4 @@
-package com.codingsense.behaivoral.adapter;
+package com.codingsense.structural.adapter;
 
 public interface AdvanceMediaPlayer {
 	void playVlc(String filename);

@@ -1,4 +1,4 @@
-package com.codingsense.behaivoral.adapter;
+package com.codingsense.structural.adapter;
 
 public class VlcPlayer implements AdvanceMediaPlayer {
 	@Override
