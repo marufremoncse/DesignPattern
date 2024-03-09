@@ -1,4 +1,4 @@
-package com.codingsense.structural.Composite;
+package com.codingsense.structural.composite;
 
 import java.util.ArrayList;
 import java.util.List;
